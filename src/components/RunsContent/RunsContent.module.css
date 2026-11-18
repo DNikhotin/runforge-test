@@ -1,0 +1,16 @@
+.StateMessage { 
+    text-align: center; 
+    padding: 40px 20px; 
+    background: var(--card-bg); 
+    border-radius: 12px; 
+    border: 1px dashed var(--border); 
+}
+.Btn { 
+    margin-top: 15px; 
+    padding: 10px 20px; 
+    background: var(--primary); 
+    color: white; 
+    border: none; 
+    border-radius: 8px; 
+    cursor: pointer; 
+}
