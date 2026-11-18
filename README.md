@@ -1,5 +1,7 @@
 # Runforge - Runs Dashboard (Test Task)
 
+**Ссылка на демо (GitHub Pages):** https://dnikhotin.github.io/runforge-test/
+
 ## Установка и запуск
 
 1. `npm install`
